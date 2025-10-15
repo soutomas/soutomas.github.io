@@ -1,3 +1,3 @@
 # Packages
 ## edar 
-- https://soutomas.github.io/edar
+- <https://soutomas.github.io/edar>
