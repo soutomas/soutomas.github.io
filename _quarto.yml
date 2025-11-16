@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Tomás Sou"
+  search: 
+    location: navbar
+    type: overlay  
+  navbar:
+    left:
+      - href: resume.qmd
+        text: CV
+    right:
+      - icon: github 
+        href: https://github.com/soutomas
+      - icon: twitter
+        href: https://x.com/tomas_sou
+
+format:
+  html:
+    theme:
+      dark: darkly
+      light: cosmo
+    css: styles.css
+    toc: true
+
+
+
