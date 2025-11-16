@@ -132,6 +132,8 @@ Citations: 905+; h-index: 14
 
 - Sou T (2025). edar: Convenient Functions for Exploratory Data Analysis. R package version 0.0.5.9000, <https://soutomas.github.io/edar/dev/>. 
 
+- Sou T (2025). RappPBPK: Shiny Application for PBPK Simulation. R package version 0.0.0.9000, <https://github.com/soutomas/RappPBPK>.
+
 - Sou T (2025). RappPKPLT: Shiny Application for a PK-Platelet-GDF15 Model. R package version 0.0.0.9000, <https://github.com/soutomas/RappPKPLT>.
 
 ## Patents

@@ -9,7 +9,7 @@ website:
     type: overlay  
   navbar:
     left:
-      - href: resume.qmd
+      - href: cv.qmd
         text: CV
     right:
       - icon: github 
