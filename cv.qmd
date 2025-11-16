@@ -1,10 +1,10 @@
 ---
 title: "Portfolio"
 toc-expand: true
-mainfont: "Calibri Light"
+# mainfont: "Calibri Light"
 ---
 
-![Source: [The Pharmaceutical Journal](https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients)](images/TS_PSWC_2017_edited.jpg)
+[![Source: [The Pharmaceutical Journal]images/TS_PSWC_2017_edited.jpg](https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients)](images/TS_PSWC_2017_edited.jpg)
 
 # Tomás Sou
 
@@ -31,6 +31,8 @@ For 10+ years in clinical practice and pharmaceutical R&D in multinational corpo
 The interest of my work revolves around the synergistic application of data analytics and drug delivery science in predictive pharmacology and quantitative medicine, to support data-driven decisions in pharmaceutical R&D and the optimal use of medicines.
 
 Ultimately, I hope to bring more effective and safer treatments to patients more efficiently, with better medicines by design.
+
+***
 
 # Expertise
 
