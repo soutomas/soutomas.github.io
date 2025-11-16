@@ -1,9 +1,10 @@
 ---
 title: "Portfolio"
 toc-expand: true
+mainfont: "Calibri Light"
 ---
 
-![](images/TS_PSWC_2017_edited.jpg)
+![Source: [The Pharmaceutical Journal](https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients)](images/TS_PSWC_2017_edited.jpg)
 
 # Tomás Sou
 
