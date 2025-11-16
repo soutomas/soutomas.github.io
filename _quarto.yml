@@ -10,7 +10,7 @@ website:
   navbar:
     left:
       - href: cv.qmd
-        text: CV
+        text: Portfolio
     right:
       - icon: github 
         href: https://github.com/soutomas
