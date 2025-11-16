@@ -41,8 +41,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0b37c64f34216b628666a8dac638b53b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-e7f4145358ce1d0cd37d8d374dbb44f9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-3d09eda5419db5f555be6e13cb8de544.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-6f8350295ea49d9495ca8d2fab6cea63.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -263,7 +263,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://x.com/tomas_sou"> <i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://x.com/tomas_sou"> <i class="bi bi-twitter-x" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:tomas.sou@carexer.com"> <i class="bi bi-envelope" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -337,8 +342,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients" target="_blank"><img src="images/TS_PSWC_2017e.jpg" class="img-fluid"></a><br>
-Source: <a href="https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients" target="_blank">The Pharmaceutical Journal</a></p>
+<p><a href="https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients"><img src="images/TS_PSWC_2017e.jpg" class="img-fluid"></a><br>
+Source: <a href="https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients">The Pharmaceutical Journal</a></p>
 <section id="tomás-sou" class="level1">
 <h1>Tomás Sou</h1>
 <p>PhD BPharm(Hons)</p>
@@ -346,9 +351,9 @@ Source: <a href="https://pharmaceutical-journal.com/article/news/new-compound-co
 Drug R&amp;D. Quantitative Medicine. Global Health.</p>
 <p>Pharmacometrics. Drug Delivery. Inhalation. Biologics.<br>
 Antimicrobials. Vaccines. Oncology. Neuroscience.</p>
-<p>Senior Principal Scientist Pharmacometrics – Novartis<br>
-Editorial Advisory Board Member / Top Reviewer – JPharmSci<br>
-Researcher – UN Volunteers, United Nations Development Programme</p>
+<p>Senior Principal Scientist Pharmacometrics – <a href="https://www.novartis.com">Novartis</a><br>
+<a href="https://jpharmsci.org/article/S0022-3549(24)00617-8/fulltext">Editorial Advisory Board Member</a> / <a href="https://jpharmsci.org/article/S0022-3549(21)00636-5/fulltext">Top Reviewer</a> – <a href="https://jpharmsci.org">JPharmSci</a><br>
+Researcher – <a href="https://www.unv.org/">UN Volunteers</a>, <a href="https://www.undp.org/">United Nations Development Programme</a></p>
 <hr>
 </section>
 <section id="purpose" class="level1">
@@ -648,6 +653,11 @@ Researcher – UN Volunteers, United Nations Development Programme</p>
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
