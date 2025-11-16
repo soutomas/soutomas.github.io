@@ -16,8 +16,13 @@ website:
     right:
       - icon: github 
         href: https://github.com/soutomas
+        target: _blank
       - icon: twitter-x
         href: https://x.com/tomas_sou
+        target: _blank
+      - icon: wordpress
+        href: https://carexer.com
+        target: _blank
       - icon: envelope
         href: mailto:tomas.sou@carexer.com
 
