@@ -4,7 +4,8 @@ toc-expand: true
 # mainfont: "Calibri Light"
 ---
 
-[![Source: [The Pharmaceutical Journal]images/TS_PSWC_2017_edited.jpg](https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients)](images/TS_PSWC_2017_edited.jpg)
+[![](images/TS_PSWC_2017e.jpg)](https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients){target="_blank"}  
+Source: [The Pharmaceutical Journal](https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients){target="_blank"}  
 
 # Tomás Sou
 
