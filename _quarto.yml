@@ -14,8 +14,10 @@ website:
     right:
       - icon: github 
         href: https://github.com/soutomas
-      - icon: twitter
+      - icon: twitter-x
         href: https://x.com/tomas_sou
+      - icon: envelope
+        href: mailto:tomas.sou@carexer.com
 
 format:
   html:
@@ -24,6 +26,7 @@ format:
       light: cosmo
     css: styles.css
     toc: true
+    
 
 
 

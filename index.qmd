@@ -1,5 +1,7 @@
 ---
 title: "Home"
+toc-expand: true
+mainfont: "Calibri Light"
 ---
 
 ![](images/dsc_7448.jpg)
@@ -12,8 +14,4 @@ I like travelling and can’t seem to find enough time to see the world. I care 
 
 I am a registered pharmacist in Australia and a research scientist specialising in integrated pharmaceutical R&D. I have over 10 years of combined clinical and R&D experience supporting the development and clinical use of medicines in multinational corporations and consortia. The interest of my work revolves around the synergistic application of data analytics and drug delivery science in predictive pharmacology and quantitative medicine to accelerate the development of new treatments.
 
-You can see some of my work here.
-
-If you would like to know more about my work, please feel free to contact me or subscribe below for new posts.
-
-If you share my passion in improving people’s lives by making better medicines by design, please support my work by signing up here. Your support is very important and much appreciated.
+If you would like to know more about my work, please feel free to contact me and follow for updates.

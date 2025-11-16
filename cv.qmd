@@ -1,11 +1,12 @@
 ---
 title: "Portfolio"
 toc-expand: true
-# mainfont: "Calibri Light"
+mainfont: "Calibri Light"
+link-external-newwindow: true
 ---
 
-[![](images/TS_PSWC_2017e.jpg)](https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients){target="_blank"}  
-Source: [The Pharmaceutical Journal](https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients){target="_blank"}  
+[![](images/TS_PSWC_2017e.jpg)](https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients)  
+Source: [The Pharmaceutical Journal](https://pharmaceutical-journal.com/article/news/new-compound-could-improve-treatment-of-lung-infection-in-cystic-fibrosis-patients)  
 
 # Tomás Sou
 
@@ -17,9 +18,9 @@ Drug R&D. Quantitative Medicine. Global Health.
 Pharmacometrics. Drug Delivery. Inhalation. Biologics.  
 Antimicrobials. Vaccines. Oncology. Neuroscience.  
 
-Senior Principal Scientist Pharmacometrics – Novartis  
-Editorial Advisory Board Member / Top Reviewer – JPharmSci  
-Researcher – UN Volunteers, United Nations Development Programme  
+Senior Principal Scientist Pharmacometrics – [Novartis](https://www.novartis.com)  
+[Editorial Advisory Board Member](https://jpharmsci.org/article/S0022-3549(24)00617-8/fulltext) / [Top Reviewer](https://jpharmsci.org/article/S0022-3549(21)00636-5/fulltext) – [JPharmSci](https://jpharmsci.org)  
+Researcher – [UN Volunteers](https://www.unv.org/), [United Nations Development Programme](https://www.undp.org/)  
 
 ***
 
