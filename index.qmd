@@ -1,5 +1,6 @@
 ---
 title: "Home"
+toc: false
 toc-expand: true
 mainfont: "Calibri Light"
 ---

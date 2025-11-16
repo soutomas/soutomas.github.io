@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: "docs"
+  preview: 
+    port: 6688
 
 website:
   title: "Tomás Sou"
@@ -26,6 +28,7 @@ format:
       light: cosmo
     css: styles.css
     toc: true
+    link-external-newwindow: true
     
 
 
