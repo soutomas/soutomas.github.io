@@ -87,7 +87,7 @@ In one project, I supported evaluating the use of [continuous-time Markov models
 ::: {layout-ncol=2 layout-valign="center"}
 [![](images/nanobody.jpg){fig-align="right" width=200}](https://www.sanofi.com/en/magazine/our-science/nanobody-technology-platform)  
 
-[![](images/sanofi.png){fig-align="left" width=200}](https://www.sanofi.com)  
+[![](images/sanofi.jpg){fig-align="left" width=200}](https://www.sanofi.com)  
 ::: 
 
 ## Nanobody®
@@ -119,7 +119,7 @@ Specifically, as [an inventor of the patent](https://patentscope.wipo.int/search
 ::: {layout-ncol=2 layout-valign="center"} 
 [![](images/nd4bb-enable.jpg){fig-align="right" width=200}](https://www.imi.europa.eu/projects-results/project-factsheets/enable)  
 
-[![](images/imi.png){fig-align="left" width=200}](https://www.imi.europa.eu)  
+[![](images/imi.jpg){fig-align="left" width=200}](https://www.imi.europa.eu)  
 ::: 
 
 ## Antimicrobials / ENABLE
@@ -133,7 +133,7 @@ Uppsala University is home to world-leading research groups in [pharmacometrics]
 ***
 
 ::: {layout-ncol=2 layout-valign="center"} 
-[![](images/jpiamr.png){fig-align="right" width=200}](https://www.jpiamr.eu)  
+[![](images/jpiamr.jpg){fig-align="right" width=200}](https://www.jpiamr.eu)  
 
 [![](images/udopp.png){fig-align="left" width=200}](https://www.uu.se/en/department/pharmacy/infrastructure/udopp)  
 ::: 
