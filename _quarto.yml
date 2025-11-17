@@ -29,8 +29,10 @@ website:
 format:
   html:
     theme:
-      dark: darkly
-      light: cosmo
+      # dark: [cosmo, theme-dark.scss]
+      # light: cosmo
+      dark: [darkly, theme-dark.scss]
+      light: flatly
     css: styles.css
     toc: true
     link-external-newwindow: true
