@@ -257,16 +257,6 @@ Michelle McIntosh, David A Morton, Tomás Sou, Livesey Olerile, Richard Prankerd
 
 - Sou T, Meeusen EN, de Veer M, Morton DAV, Kaminskas LM, McIntosh MP. New developments in dry powder pulmonary vaccine delivery. Trends Biotechnol. 2011;29(4):191-8. DOI: <https://doi.org/10.1016/j.tibtech.2010.12.009>. (Journal cover)
 
-## Presentations
-
-- Sou T, Liepins E, Hansen J, Grinberga S, Backlund M, Ercan O, et al. “Translational PK and PKPD modelling of preclinical in-vitro and in-vivo studies to predict the efficacious human dose of apramycin”. ECCMID, Amsterdam, Netherlands. Apr 2019. (Selected for oral presentation with travel grant award)
-
-- Sou T. “New generation antimicrobials for the treatment of Pseudomonas aeruginosa”. 8th Symposium on Pharmaceutical Profiling in Drug Discovery and Development, Uppsala University, Uppsala, Sweden. 25 Jan 2018. (Invited speaker)
-
-- Sou T, Kukavica-Ibrulj I, Soukarieh F, Halliday N, Levesque RC, Williams P, et al. “Quorum sensing inhibitors for pulmonary delivery as a novel treatment strategy against Pseudomonas aeruginosa”. 6th FIP Pharmaceutical Sciences World Congress, Stockholm, Sweden. 21-24 May 2017. (Selected for oral presentation)
-
-- Sou T, Kukavica-Ibrulj I, Soukarieh F, Halliday N, Levesque RC, Williams P, et al. “Quorum sensing inhibitors for pulmonary delivery as a novel treatment strategy against Pseudomonas aeruginosa”. Northern Pharma Network Meeting, Tartu, Estonia. Jan 2017. (Selected for oral presentation)
-
 ## Posters
 
 - Sou T, Lacroix B, Naik H, Khandelwal A, Coello N. Horseshoe prior as a fast and efficient approach for covariate selection in pharmacometric modelling. PAGE 33 (2025) Abstr 11683 [[www.page-meeting.org/?abstract=11683]](https://www.page-meeting.org/?abstract=11683)
@@ -308,3 +298,13 @@ Michelle McIntosh, David A Morton, Tomás Sou, Livesey Olerile, Richard Prankerd
 - Sou T, McIntosh MP, Kaminskas LM, Orlando L, Morton DAV. The interaction effect of leucine, glycine and alanine on the performance of a mannitol dry powder formulation. American Association of Pharmaceutical Scientists Annual Meeting, New Orleans, USA. 2010.
 
 - Sou T, McIntosh MP, Kaminskas LM, Orlando L, Morton DAV. An investigation on the interaction effect of amino acids on the performance of a mannitol dry powder formulation using a design of experiment approach. Globalisation of Pharmaceutical Education Conference 2010, North Carolina, USA. 2010.
+
+## Presentations
+
+- Sou T, Liepins E, Hansen J, Grinberga S, Backlund M, Ercan O, et al. “Translational PK and PKPD modelling of preclinical in-vitro and in-vivo studies to predict the efficacious human dose of apramycin”. ECCMID, Amsterdam, Netherlands. Apr 2019. (Selected for oral presentation with travel grant award)
+
+- Sou T. “New generation antimicrobials for the treatment of Pseudomonas aeruginosa”. 8th Symposium on Pharmaceutical Profiling in Drug Discovery and Development, Uppsala University, Uppsala, Sweden. 25 Jan 2018. (Invited speaker)
+
+- Sou T, Kukavica-Ibrulj I, Soukarieh F, Halliday N, Levesque RC, Williams P, et al. “Quorum sensing inhibitors for pulmonary delivery as a novel treatment strategy against Pseudomonas aeruginosa”. 6th FIP Pharmaceutical Sciences World Congress, Stockholm, Sweden. 21-24 May 2017. (Selected for oral presentation)
+
+- Sou T, Kukavica-Ibrulj I, Soukarieh F, Halliday N, Levesque RC, Williams P, et al. “Quorum sensing inhibitors for pulmonary delivery as a novel treatment strategy against Pseudomonas aeruginosa”. Northern Pharma Network Meeting, Tartu, Estonia. Jan 2017. (Selected for oral presentation)
