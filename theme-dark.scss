@@ -1,5 +1,7 @@
 /*-- scss:defaults --*/
 
+$aqua: #00FFFF;
+$aquam: #7FFFD4;
 $blue: #447099;
 $red: #D44000;
 $orange: #EE6331;
@@ -34,7 +36,7 @@ $danger: $red;
 $body-bg: $gray-900;
 $body-color: $gray-100;
 //$link-color: $cyan;
-$link-color: teal;
+$link-color: $aquam;
 
 $light: rgb(32.4,32.4,34.2);
 
