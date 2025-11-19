@@ -13,15 +13,16 @@ website:
     left:
       - href: cv.qmd
         text: Portfolio
+        icon: file-person
     right:
-      - icon: github 
-        href: https://github.com/soutomas
-        target: _blank
       - icon: twitter-x
         href: https://x.com/tomas_sou
         target: _blank
+      - icon: github 
+        href: https://github.com/soutomas
+        target: _blank
       - icon: wordpress
-        href: https://carexer.com
+        href: https://tomassou.com
         target: _blank
       - icon: envelope
         href: mailto:tomas.sou@carexer.com
