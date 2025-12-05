@@ -13,7 +13,7 @@ website:
     left:
       - href: cv.qmd
         text: Portfolio
-        icon: file-person
+        icon: person-badge
     right:
       - icon: twitter-x
         href: https://x.com/tomas_sou
