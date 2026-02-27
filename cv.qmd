@@ -194,7 +194,7 @@ In the UNV programme, I supported research on the political economy of health is
 
 # Publications
 
-Citations: 920+; h-index: 14 
+Citations: 964+; h-index: 14 
 
 ## Software
 
@@ -222,6 +222,8 @@ Michelle McIntosh, David A Morton, Tomás Sou, Livesey Olerile, Richard Prankerd
 - IN: 391369  
 
 ## Articles
+
+- Sou T, Malek K, Weber HJ. Population PK/PD modeling for evaluation of intertwining effects of drug and disease on thrombocytopenia in acute leukemias. CPT Pharmacometrics Syst Pharmacol. 2026;15(3):e70210. DOI: <https://doi.org/10.1002/psp4.70210>.
 
 - Soukarieh F, Mashabi A, Richardson W, Oton EV, Romero M, Dubern JF, Robertson SN, Lucanto S, Markham-Lee Z, Sou T, et al. Design, synthesis, and evaluation of new 1 H-benzo[d]imidazole based PqsR inhibitors as adjuvant therapy for Pseudomonas aeruginosa Infections. J Med Chem. 2024;67(2):1008-1023. DOI: <https://doi.org/10.1021/acs.jmedchem.3c00973>.
 

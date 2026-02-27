@@ -8,3 +8,5 @@
 
 /ignore
 
+
+**/*.quarto_ipynb
