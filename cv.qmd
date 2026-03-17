@@ -72,7 +72,7 @@ Ultimately, I hope to bring more effective and safer treatments to patients more
 
 Blood cancers such as [acute myeloid leukemia (AML)](https://www.novartis.com/diseases/acute-myeloid-leukemia-aml) and myelodysplastic syndromes (MDS) are characterised by dysfunctional immune system and leukaemic stem cell proliferation.
 
-In oncology, thrombocytopenia is a commonly reported dose-limiting toxicity. In one project, I contributed to [understanding of intertwining effects of drug and disease on platelet dynamics in haematological malignancies](https://www.page-meeting.org/default.asp?keuze=search&orderby=&keywordTitle=haematological&keywordContent=&keywordAuthor=Tomas+Sou&keywordNumber=&meeting=) to support dosing decisions in cancer patients.
+In oncology, thrombocytopenia is a commonly reported dose-limiting toxicity. In one project, I contributed to [understanding of intertwining effects of drug and disease on platelet dynamics in haematological malignancies](https://doi.org/10.1002/psp4.70210) to support dosing decisions in cancer patients.
 
 ## Neuroscience
 
@@ -194,7 +194,7 @@ In the UNV programme, I supported research on the political economy of health is
 
 # Publications
 
-Citations: 965+; h-index: 14 
+Citations: 970+; h-index: 14 
 
 ## Software
 
