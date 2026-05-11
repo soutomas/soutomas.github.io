@@ -41,7 +41,7 @@ The development of innovative medicines is a long and costly endeavour. With the
 
 For 10+ years in clinical practice and pharmaceutical R&D in multinational corporations and consortia, I have developed multidisciplinary expertise throughout the drug development process in global cross-functional project teams.
 
-The interest of my work revolves around the synergistic application of data analytics and drug delivery science in predictive pharmacology and quantitative medicine, to support data-driven decisions in pharmaceutical R&D and the optimal use of medicines.
+The interest of my work revolves around the synergistic application of data analytics and drug delivery science in quantitative pharmacology and precision medicine, to support data-driven decisions in pharmaceutical R&D and the optimal use of medicines.
 
 Ultimately, I hope to bring more effective and safer treatments to patients more efficiently, with better medicines by design.
 
@@ -205,7 +205,7 @@ In the UNV programme, I supported research on the political economy of health is
 
 # Publications
 
-Citations: 975+; h-index: 14 
+Citations: 990+; h-index: 14 
 
 ## Software
 
