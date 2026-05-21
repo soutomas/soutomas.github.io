@@ -23,3 +23,14 @@ jobs:
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update GitHub Pages Custom Domain
+        run: |
+          gh api \
+            --method PUT \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            /repos/${{ github.repository }}/pages \
+            -f "cname=tomassou.com"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}          
