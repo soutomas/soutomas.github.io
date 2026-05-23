@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Tomás Sou"
+  google-analytics: "G-9S8H0YV4GD"  
   search: 
     location: navbar
     type: overlay  
