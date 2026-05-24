@@ -31,6 +31,6 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             -H "X-GitHub-Api-Version: 2026-03-10" \
             /repos/${{ github.repository }}/pages \
-            -f "cname=tomassou.com" 
+            -f "cname=www.tomassou.com" 
         env:
           GH_TOKEN: ${{ secrets.MY_FINE_GRAINED_TOKEN }}          
