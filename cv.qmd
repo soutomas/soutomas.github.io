@@ -5,6 +5,12 @@ mainfont: "Calibri Light"
 link-external-newwindow: true
 ---
 
+<!-- # To update git origin  -->
+<!-- git remote -v -->
+<!-- git remote rm origin  -->
+<!-- git remote add origin https://github.com/soutomas/soutomas.github.io.git -->
+<!-- git push -u origin  -->
+
 <!-- # Add between </head> and <body> to cv.html on GitHub -->
 <!-- Google tag (gtag.js) -->
 <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-9S8H0YV4GD"></script> -->
