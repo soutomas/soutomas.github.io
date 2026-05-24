@@ -5,7 +5,6 @@ mainfont: "Calibri Light"
 link-external-newwindow: true
 ---
 
-
 <!-- # Add between </head> and <body> to cv.html on GitHub -->
 <!-- Google tag (gtag.js) -->
 <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-9S8H0YV4GD"></script> -->
@@ -13,7 +12,6 @@ link-external-newwindow: true
 <!--   window.dataLayer = window.dataLayer || []; -->
 <!--   function gtag(){dataLayer.push(arguments);} -->
 <!--   gtag('js', new Date()); -->
-
 <!--   gtag('config', 'G-9S8H0YV4GD'); -->
 <!-- </script> -->
 
