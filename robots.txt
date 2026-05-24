@@ -1,1 +1,1 @@
-Sitemap: https://soutomas.github.io/soutomas-github/sitemap.xml
+Sitemap: https://soutomas.github.io/sitemap.xml
