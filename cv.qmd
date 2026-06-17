@@ -78,19 +78,13 @@ Ultimately, I hope to bring more effective and safer treatments to patients more
 
 ***
 
+## Neuroscience
+
 ::: {layout-ncol=2 layout-valign="center"}
-[![](images/haemagology.jpg){fig-align="right" width=200}](https://www.novartis.com/about/therapeutic-areas/oncology/hematology)  
+[![](images/ns.png){fig-align="right" width=200}](https://www.novartis.com/about/therapeutic-areas/neuroscience)  
 
 [![](images/novartis.png){fig-align="left" width=200}](https://www.novartis.com) 
 ::: 
-
-## Oncology / Haematology  
-
-Blood cancers such as [acute myeloid leukemia (AML)](https://www.novartis.com/diseases/acute-myeloid-leukemia-aml) and myelodysplastic syndromes (MDS) are characterised by dysfunctional immune system and leukaemic stem cell proliferation.
-
-In oncology, thrombocytopenia is a commonly reported dose-limiting toxicity. In one project, I contributed to [understanding of intertwining effects of drug and disease on platelet dynamics in haematological malignancies](https://doi.org/10.1002/psp4.70210) to support dosing decisions in cancer patients.
-
-## Neuroscience
 
 [Multiple sclerosis (MS)](https://www.novartis.com/diseases/multiplesclerosis) is a chronic inflammatory disease of the central nervous system. In MS, patients experience a wide range of life-limiting symptoms, ranging from problems with vision, movement and sensation to fatigue, pain and issues with memory and thinking.
 
@@ -98,15 +92,27 @@ In neuroscience, I support the clinical development and registration of new gene
 
 In one project, I supported evaluating the use of [continuous-time Markov models as a means for fitting disease progression models in MS using the NO.MS dataset](https://www.page-meeting.org/?abstract=11452), which is the largest clinical trial dataset for MS complied by Novartis and Oxford, containing data from approximately 35,000 patients spanning all MS phenotypes and including up to 15 years of follow-up.
 
+## Oncology / Haematology  
+
+::: {layout-ncol=2 layout-valign="center"}
+[![](images/haemagology.jpg){fig-align="right" width=200}](https://www.novartis.com/about/therapeutic-areas/oncology/hematology)  
+
+[![](images/novartis.png){fig-align="left" width=200}](https://www.novartis.com) 
+::: 
+
+Blood cancers such as [acute myeloid leukemia (AML)](https://www.novartis.com/diseases/acute-myeloid-leukemia-aml) and myelodysplastic syndromes (MDS) are characterised by dysfunctional immune system and leukaemic stem cell proliferation.
+
+In oncology, thrombocytopenia is a commonly reported dose-limiting toxicity. In one project, I contributed to [understanding of intertwining effects of drug and disease on platelet dynamics in haematological malignancies](https://doi.org/10.1002/psp4.70210) to support dosing decisions in cancer patients.
+
 ***
+
+## Nanobody®
 
 ::: {layout-ncol=2 layout-valign="center"}
 [![](images/nanobody.jpg){fig-align="right" width=200}](https://www.sanofi.com/en/magazine/our-science/nanobody-technology-platform)  
 
 [![](images/sanofi.jpg){fig-align="left" width=200}](https://www.sanofi.com)  
 ::: 
-
-## Nanobody®
 
 [Nanobody](https://www.sanofi.com/en/science-and-innovation/research-and-development/technology-platforms/nanobody-technology-platform) molecules belong to a new class of biologics that are derived from heavy-chain-only peptides and are around a tenth the size of conventional antibodies.
 
@@ -116,13 +122,13 @@ In one project, I was involved in preparing the submission package to PMDA in Ja
 
 ***
 
+## Global health
+
 ::: {layout-ncol=2 layout-valign="center"}
 [![](images/global.jpg){fig-align="right" width=200}](https://www.gsk.com/en-gb/media/press-releases/international-collaboration-to-develop-inhaled-form-of-oxytocin-to-manage-bleeding-after-childbirth-in-developing-countries)  
 
 [![](images/gsk.png){fig-align="left" width=200}](https://www.gsk.com)  
 ::: 
-
-## Global health
 
 Every year nearly [300,000 women](https://www.gsk.com/en-gb/media/press-releases/international-collaboration-to-develop-inhaled-form-of-oxytocin-to-manage-bleeding-after-childbirth-in-developing-countries) die due to pregnancy-related causes, with the risk of a woman in a developing country dying from a maternal-related cause during her lifetime around [23 times higher](https://www.gsk.com/en-gb/media/press-releases/international-collaboration-to-develop-inhaled-form-of-oxytocin-to-manage-bleeding-after-childbirth-in-developing-countries) than a woman living in a developed country.
 
@@ -132,13 +138,13 @@ Specifically, as [an inventor of the patent](https://patentscope.wipo.int/search
 
 ***
 
+## Antimicrobials / ENABLE
+
 ::: {layout-ncol=2 layout-valign="center"} 
 [![](images/nd4bb-enable.jpg){fig-align="right" width=200}](https://www.imi.europa.eu/projects-results/project-factsheets/enable)  
 
 [![](images/imi.jpg){fig-align="left" width=200}](https://www.imi.europa.eu)  
 ::: 
-
-## Antimicrobials / ENABLE
 
 The [European Gram-negative Antibacterial Engine (ENABLE)](https://www.imi.europa.eu/projects-results/project-factsheets/enable) is a consortium under the [Innovative Medicines Initiatives (IMI)](https://www.imi.europa.eu) funded by the EU. It is a public-private partnership for the development of new treatments with industry partners to combat antimicrobial resistance.
 
@@ -148,13 +154,13 @@ Uppsala University is home to world-leading research groups in [pharmacometrics]
 
 ***
 
+## Antimicrobials / JPIAMR
+
 ::: {layout-ncol=2 layout-valign="center"} 
 [![](images/jpiamr.jpg){fig-align="right" width=200}](https://www.jpiamr.eu)  
 
 [![](images/udopp.png){fig-align="left" width=200}](https://www.uu.se/en/department/pharmacy/infrastructure/udopp)  
 ::: 
-
-## Antimicrobials / JPIAMR
 
 The [Joint Programming Initiative on Antimicrobial Resistance (JPIAMR)](https://www.jpiamr.eu) is an EU supported initiative to combat antimicrobial resistance. I was part of the [SENBIOTAR](https://www.jpiamr.eu/projects/senbiotar) consortium funded by the programme, representing the ADME/DMPK and the drug delivery functions from Uppsala University in the global cross-functional project team.
 
@@ -164,13 +170,13 @@ Uppsala University is home to [UDOPP](https://www.farmaci.uu.se/research/drugdel
 
 ***
 
+## Inhalation & Vaccines
+
 ::: {layout-ncol=2 layout-valign="center"} 
 [![](images/dpirx-cover.jpg){fig-align="right" width=200}](https://doi.org/10.1016/j.tibtech.2010.12.009)  
 
 [![](images/mips.jpg){fig-align="left" width=200}](https://www.monash.edu/mips)  
 :::
-
-## Inhalation & Vaccines
 
 The unique physiology and high absorptive capacity of the lung, physiologically designed for rapid gaseous exchange, provide a potential entry route for compounds that cannot be absorbed via the gastrointestinal tract.
 
@@ -180,13 +186,13 @@ Monash University was recognised as [number #1 in the world in the 2022 QS World
 
 ***
 
+## Medication Management
+
 ::: {layout-ncol=2 layout-valign="center"} 
 [![](images/aacp.png){fig-align="right" width=200}](https://www.guild.org.au/news-events/news/forefront/v12n10/aacp-to-cease-operations)  
 
 [![](images/psa.png){fig-align="left" width=200}](https://www.psa.org.au/career-and-support/credentialed-pharmacists)  
 :::
-
-## Medication Management
 
 In Australia, consultant pharmacists provide [medication management review services](https://www.psa.org.au/accreditation/mmrs) to ensure their patients’ medications are appropriate, effective, as safe as possible and used correctly. We identify, resolve, and prevent medication-related problems that may interfere with the goals of therapy.
 
@@ -196,21 +202,21 @@ For over 10 years as a consultant pharmacist accredited by the AACP, I have serv
 
 ***
 
-::: {layout-ncol=2 layout-valign="center"} 
-[![](images/unv.png){fig-align="right" width=200}](https://www.unv.org)  
+## UN Volunteers 
 
-[![](images/unvcert.png){fig-align="left" width=200}]()  
+::: {layout-ncol=2 layout-valign="center"} 
+[![](images/unv.png){fig-align="right" width=250}](https://www.unv.org)  
+
+[![](images/unvcert.png){fig-align="left" width=250}](https://iris.who.int/server/api/core/bitstreams/1be1d428-44a3-446e-8a83-57d33034b04c/content)  
 :::
 
-## United Nations Volunteers
+The [United Nations Volunteers (UNV)](https://www.unv.org) programme is a United Nations organisation that contributes to peace and development through volunteerism worldwide. In the UNV programme, I supported research on the political economy of health issues for the [United Nations Development Programme (UNDP)](https://www.undp.org). 
 
-The [United Nations Volunteers (UNV)](https://www.unv.org) programme is a United Nations organisation that contributes to peace and development through volunteerism worldwide.
-
-In the UNV programme, I supported research on the political economy of health issues for the [United Nations Development Programme (UNDP)](https://www.undp.org).
+Specifically, I contributed to the research and drafting of this report on the Investment case for tobacco control in Montenegro: the case for scaling-up WHO FCTC implementation. United Nations Development Programme : World Health Organization. <https://iris.who.int/handle/10665/377033>. License: CC BY-NC-SA 3.0 IGO. 
 
 # Publications
 
-Citations: 1000+; h-index: 14 
+Citations: 1005+; h-index: 14 
 
 ## Software
 
@@ -236,6 +242,10 @@ Michelle McIntosh, David A Morton, Tomás Sou, Livesey Olerile, Richard Prankerd
 - ZA: 2014/01526  
 - BR: BR112014002646-7  
 - IN: 391369  
+
+## Report 
+
+- UNDP, Secretariat of the WHO Framework Convention on Tobacco Control. Investment Case for Tobacco Control in Montenegro. Geneva: United Nations Development Programme and World Health Organization; 2024. Licence: CC BY-NC-SA 3.0 IGO. Available at: <https://iris.who.int/server/api/core/bitstreams/1be1d428-44a3-446e-8a83-57d33034b04c/content> 
 
 ## Articles
 
