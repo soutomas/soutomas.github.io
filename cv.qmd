@@ -104,8 +104,6 @@ Blood cancers such as [acute myeloid leukemia (AML)](https://www.novartis.com/di
 
 In oncology, thrombocytopenia is a commonly reported dose-limiting toxicity. In one project, I contributed to [understanding of intertwining effects of drug and disease on platelet dynamics in haematological malignancies](https://doi.org/10.1002/psp4.70210) to support dosing decisions in cancer patients.
 
-***
-
 ## Nanobody®
 
 ::: {layout-ncol=2 layout-valign="center"}
@@ -119,8 +117,6 @@ In oncology, thrombocytopenia is a commonly reported dose-limiting toxicity. In 
 In [Sanofi](https://www.sanofi.com), as a clinical pharmacometrician in development project teams, I contributed to the population PK/PD modelling and simulation activities for the development of both small molecules and biologics in clinical studies (FIH to Ph3), including first-in-human evaluation, proof-of-concept study design, international submission, labelling extension, paediatrics extrapolation and alternative dosing regimen exploration.
 
 In one project, I was involved in preparing the submission package to PMDA in Japan for extending the use of caplacizumab to paediatric patients in the Japanese population. Due to the indication being a rare disease, [dose extrapolation using a modelling approach](https://www.page-meeting.org/?abstract=9653), without any clinical data in paediatric patients, was used to support this submission.
-
-***
 
 ## Global health
 
@@ -136,8 +132,6 @@ In [GSK](https://www.gsk.com), as a formulation scientist and a project liaison,
 
 Specifically, as [an inventor of the patent](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2013016754), I led the technical transfer and product translation in the development of a novel inhaled formulation for pulmonary delivery of biologics and supported its development feasibility study, which eventually resulted in a [co-development and licensing agreement](https://www.gsk.com/en-gb/media/press-releases/international-collaboration-to-develop-inhaled-form-of-oxytocin-to-manage-bleeding-after-childbirth-in-developing-countries).
 
-***
-
 ## Antimicrobials / ENABLE
 
 ::: {layout-ncol=2 layout-valign="center"} 
@@ -151,8 +145,6 @@ The [European Gram-negative Antibacterial Engine (ENABLE)](https://www.imi.europ
 In this consortium, I represented the pharmacometrics function from Uppsala University in cross-functional project teams to support the development of new antimicrobials for industry partners. Specifically, I contributed to the PK/PD modelling and simulation activities in industrial projects, including preclinical and [translational PK and PK/PD modelling of apramycin for human dose prediction and clinical translation](https://doi.org/10.1002/cpt.2104).
 
 Uppsala University is home to world-leading research groups in [pharmacometrics](https://www.uu.se/en/department/pharmacy/research/pharmacometrics) and [predictive PKPD](https://www.uu.se/en/department/pharmacy/research/pharmacokinetics-and-pharmacodynamics/predictive-pharmacokinetics-and-pharmacodynamics).
-
-***
 
 ## Antimicrobials / JPIAMR
 
@@ -168,8 +160,6 @@ In this consortium, I contributed to the screening and optimisation of novel com
 
 Uppsala University is home to [UDOPP](https://www.farmaci.uu.se/research/drugdelivery/udoppeng/about/), a pharmaceutical and ADMET platform that provides support in drug discovery and early drug development projects.
 
-***
-
 ## Inhalation & Vaccines
 
 ::: {layout-ncol=2 layout-valign="center"} 
@@ -183,8 +173,6 @@ The unique physiology and high absorptive capacity of the lung, physiologically 
 In [Monash University](https://www.monash.edu/mips), I was a research scientist investigating the development of [dry powder formulations suitable for systemic delivery of biotherapeutics such as peptides and vaccines via inhalation](https://pubmed.ncbi.nlm.nih.gov/?term=21255854%3B+21963471%3B+23183447%3B+25714115).
 
 Monash University was recognised as [number #1 in the world in the 2022 QS World University Rankings by Subject for Pharmacy and Pharmacology](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/pharmacy-pharmacology).
-
-***
 
 ## Medication Management
 
@@ -200,8 +188,6 @@ The Australian Association of Consultant Pharmacy (AACP) and, since 2023, the [P
 
 For over 10 years as a consultant pharmacist accredited by the AACP, I have served the Australian community and provided clinical services to patients and medical practitioners to promote the optimal use of medicines.
 
-***
-
 ## UN Volunteers 
 
 ::: {layout-ncol=2 layout-valign="center"} 
@@ -212,7 +198,7 @@ For over 10 years as a consultant pharmacist accredited by the AACP, I have serv
 
 The [United Nations Volunteers (UNV)](https://www.unv.org) programme is a United Nations organisation that contributes to peace and development through volunteerism worldwide. In the UNV programme, I supported research on the political economy of health issues for the [United Nations Development Programme (UNDP)](https://www.undp.org). 
 
-Specifically, I contributed to the research and drafting of this report on the Investment case for tobacco control in Montenegro: the case for scaling-up WHO FCTC implementation. United Nations Development Programme : World Health Organization. <https://iris.who.int/handle/10665/377033>. License: CC BY-NC-SA 3.0 IGO. 
+Specifically, I contributed to the research and drafting of the _Investment case for tobacco control in Montenegro: the case for scaling-up WHO FCTC implementation._ United Nations Development Programme : World Health Organization. <https://iris.who.int/handle/10665/377033>. License: CC BY-NC-SA 3.0 IGO. 
 
 # Publications
 
@@ -243,7 +229,7 @@ Michelle McIntosh, David A Morton, Tomás Sou, Livesey Olerile, Richard Prankerd
 - BR: BR112014002646-7  
 - IN: 391369  
 
-## Report 
+## Reports 
 
 - UNDP, Secretariat of the WHO Framework Convention on Tobacco Control. Investment Case for Tobacco Control in Montenegro. Geneva: United Nations Development Programme and World Health Organization; 2024. Licence: CC BY-NC-SA 3.0 IGO. Available at: <https://iris.who.int/server/api/core/bitstreams/1be1d428-44a3-446e-8a83-57d33034b04c/content> 
 
