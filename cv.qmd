@@ -202,7 +202,7 @@ Specifically, among others, I contributed to the research and drafting of the _I
 
 # Publications
 
-Citations: 1015+; h-index: 15 
+Citations: 1015+; h-index: 15
 
 ## Software
 
