@@ -202,7 +202,7 @@ Specifically, among others, I contributed to the research and drafting of the _I
 
 # Publications
 
-[Citations: 1020+; h-index: 15](https://scholar.google.com.au/citations?view_op=list_works&pli=1&user=S0G3DdkAAAAJ)
+[Citations: 1030+; h-index: 15](https://scholar.google.com.au/citations?view_op=list_works&pli=1&user=S0G3DdkAAAAJ)
 
 ## Software
 
