@@ -188,7 +188,7 @@ The Australian Association of Consultant Pharmacy (AACP) and, since 2023, the [P
 
 For over 10 years as a consultant pharmacist accredited by the AACP, I have served the Australian community and provided clinical services to patients and medical practitioners to promote the optimal use of medicines.
 
-## UN Volunteers 
+## United Nations  
 
 ::: {layout-ncol=2 layout-valign="center"} 
 [![](images/unv.png){fig-align="right" width=250}](https://www.unv.org)  
