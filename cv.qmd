@@ -29,7 +29,7 @@ Source: [The Pharmaceutical Journal](https://pharmaceutical-journal.com/article/
 PhD GradCertPharmPrac BPharm(Hons) MPS
 
 Pharmacist. Researcher. Scientist.  
-Drug R&D. Quantitative Medicine. Global Health.  
+Quantitative Pharmacology. Pharmaceutical R&D.  
 
 Pharmacometrics. Drug Delivery. Inhalation. Biologics.  
 Antimicrobials. Vaccines. Oncology. Neuroscience.  
@@ -54,7 +54,7 @@ Ultimately, I hope to bring more effective and safer treatments to patients more
 
 # Expertise
 
-## Quantitative Medicine
+## Quantitative Pharmacology
 
 - Pharmacometrics  
 - Model-informed drug discovery and development  
